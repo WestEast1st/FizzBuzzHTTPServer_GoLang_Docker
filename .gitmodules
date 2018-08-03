@@ -1,3 +1,3 @@
-[submodule "FizzBuzz"]
-	path = FizzBuzz
+[submodule "fizzbuzz"]
+	path = fizzbuzz
 	url = git://github.com/WestEast1st/FizzBuzzHTTPServer_GoLang
